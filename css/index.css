@@ -8,3 +8,7 @@
     box-sizing: border-box;
     /* box-content	box-sizing: content-box; */
 }
+.cabecera{
+    background-color: rebeccapurple;
+    color: seashell;
+}
